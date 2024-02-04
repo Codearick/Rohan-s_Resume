@@ -1,4 +1,4 @@
-# [Rohan Gautam]
+# Rohan Gautam
 
 ## Education
 - **Bachelor of Computer Applications (BCA)**
