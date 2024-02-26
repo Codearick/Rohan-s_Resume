@@ -26,6 +26,7 @@
   - PHP
 
 ## Contact
+- [Twitter](https://twitter.com/GautamR3han69)
 - [LinkedIn](https://www.linkedin.com/in/rohan-gautam-a2b77b246/)
 - [Email](rohan.gautam650@gmail.com)
 
