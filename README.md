@@ -21,8 +21,8 @@
   - React
 
 - **Programming Languages:**
-  - Core Java
   - Javascript
+  - Core Java
   - PHP
 
 ## Contact
